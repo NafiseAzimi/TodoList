@@ -1,0 +1,60 @@
+.li {
+    background-color: rgb(255, 255, 255);
+    width: 330px;
+    border: rgb(8, 5, 8) 1px solid;
+    list-style-type: none;
+    padding: 8px;
+    display: grid;
+    height: 30PX;
+    grid-template-columns: 10px 10px;
+    margin-left: -45px;
+}
+
+.body{
+    background-color: darkslategrey;
+}
+.input{
+    width: 350px;
+    height: 40px;
+    padding: 5px;
+    margin-top: 35px;
+    margin-left: 120px;
+    
+}
+.Div{
+    width: 340px;
+    height: 40px;
+    padding: 5px;
+    margin-top: 35px;
+    margin-left: 120px;
+    font-size: 30px;
+    text-align: center;
+    background-color: honeydew;
+}
+
+.UL{
+    width: 350px;
+    height: 40px;
+    padding: 5px;
+    margin-top: 35px;
+    margin-left: 160px;
+    
+}
+.container{
+    background-color: dimgray;
+    width: 600px;
+    height: 500px;
+    padding: 5px;
+    position: fixed;
+    top:50px;
+    left: 350px;
+}
+
+.fa {
+margin-left: 300px;
+text-align: center;
+
+}
+.span{
+    font-size: 20px;
+}
